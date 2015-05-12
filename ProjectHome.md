@@ -1,0 +1,1 @@
+框架基于Spring,采用了其DI和MVC；数据持久化采用简单易用的MyBatis；前台页面当然是采用最流行的jQuery了。
